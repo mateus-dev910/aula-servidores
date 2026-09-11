@@ -1,0 +1,67 @@
+body{
+    background-color: green;
+    color: black;
+    font-family: 'Franklin Gothic Medium' ,'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+
+
+
+
+
+
+p{
+    font-weight: bold;
+}
+
+
+    img{
+        border-radius: 30px;
+        weight: 200px;
+        heigth: 200px;
+    }
+
+
+    a{
+        text-decoration:none;
+    }
+
+
+H3{
+    text-decoration: underline;
+}
+
+mark{
+    background-color: blue;
+}
+
+
+
+ button{
+    background-color: pink;
+    color: chocolate;
+    border-radius: 8px;
+
+ }
+ button:hover{
+    background-color: aqua;
+    color: black;
+    cursor: pointer;
+ }
+
+
+ header{
+    background-color: yellow;
+ }
+
+main{
+    background-color: greenyellow;
+}
+    
+footen{
+    background-color: red;
+}
+ 
